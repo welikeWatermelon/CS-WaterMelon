@@ -160,10 +160,10 @@
 - [ ] 톰캣 스레드 모델
 
 ### 트랜잭션
-- [ ] @Transactional 동작 원리
-- [ ] 전파 속성 (REQUIRED, REQUIRES_NEW, NESTED)
-- [ ] 같은 클래스 내부 호출 시 트랜잭션이 안 먹는 이유
-- [ ] readOnly, 롤백 규칙
+- [x] @Transactional 동작 원리
+- [x] 전파 속성 (REQUIRED, REQUIRES_NEW, NESTED)
+- [x] 같은 클래스 내부 호출 시 트랜잭션이 안 먹는 이유
+- [x] readOnly, 롤백 규칙
 
 ### 데이터 접근
 - [ ] JPA 영속성 컨텍스트, 1차 캐시, 변경 감지
