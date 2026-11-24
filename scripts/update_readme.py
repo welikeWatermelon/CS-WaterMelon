@@ -20,13 +20,13 @@ KST = timezone(timedelta(hours=9))
 WEEKS = 26  # 잔디에 보여줄 주 수 (약 6개월)
 
 SUBJECTS = [
-    ("os", "💻 OS"),
-    ("network", "🌐 Network"),
-    ("db", "🗄️ DB"),
-    ("java", "☕ Java"),
-    ("spring", "🌱 Spring"),
-    ("infra", "☁️ Infra/Cloud"),
-    ("system-design", "🏗️ 시스템 설계"),
+    ("os", "OS"),
+    ("network", "Network"),
+    ("db", "DB"),
+    ("java", "Java"),
+    ("spring", "Spring"),
+    ("infra", "Infra / Cloud"),
+    ("system-design", "시스템 설계"),
 ]
 # roadmap.md 의 '## ' 헤더 앞부분으로 과목을 찾아요
 ROADMAP_KEYS = {
@@ -39,13 +39,12 @@ ROADMAP_KEYS = {
     "system-design": "시스템 설계",
 }
 
-# 수박 테마: 겉은 초록 껍질, 안은 빨간 속살 + 검은 씨
-# 공부 안 한 날(연한 속살) → 빨강이 점점 진해짐 → 가장 많이 푼 날은 검정
-COLORS = ["#ffd9dd", "#ff9aa8", "#f2546a", "#c9182f", "#1b1b1b"]
-RIND_DARK = "#1f6b3a"   # 껍질 바깥 진한 초록
-RIND_LIGHT = "#9ad79a"  # 껍질 안쪽 연한 초록
-FLESH = "#fff1f2"       # 카드 바탕(속살)
-TEXT = "#1f6b3a"
+# 모던 테마: 빈 칸은 연한 회색, 공부량이 많을수록 진한 초록
+COLORS = ["#ebedf0", "#bfe6c6", "#7cc68c", "#3a9a56", "#1d6b38"]
+BORDER = "#e4e7eb"
+BG = "#ffffff"
+TEXT = "#6b7280"
+TITLE = "#111827"
 
 
 def parse_front_matter(text: str) -> dict:
@@ -114,9 +113,9 @@ def longest_streak(days: dict) -> int:
 
 
 def cell_svg(x: int, y: int, size: int, lv: int, tip: str = "") -> str:
-    """한 칸을 그려요. 최고 단계(lv 4)는 검정 칸이에요."""
+    """한 칸을 그려요. 공부량 단계(lv 0~4)에 맞는 색으로 칠해요."""
     title = f"<title>{tip}</title>" if tip else ""
-    return f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="2" fill="{COLORS[lv]}">{title}</rect>'
+    return f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="3" fill="{COLORS[lv]}">{title}</rect>'
 
 
 def build_svg(days: dict, today: date) -> str:
@@ -132,11 +131,8 @@ def build_svg(days: dict, today: date) -> str:
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">',
-        # 바깥 진한 껍질 → 안쪽 연한 껍질 → 빨간 속살 순서로 겹쳐 그려요
-        f'<rect x="0" y="0" width="{width}" height="{height}" rx="18" fill="{RIND_DARK}"/>',
-        f'<rect x="5" y="5" width="{width - 10}" height="{height - 10}" rx="14" fill="{RIND_LIGHT}"/>',
-        f'<rect x="8" y="8" width="{width - 16}" height="{height - 16}" rx="12" fill="{FLESH}"/>',
-        f'<text x="{left}" y="{18 + pad}" font-size="12" font-weight="700" fill="{TEXT}">'
+        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10" fill="{BG}" stroke="{BORDER}"/>',
+        f'<text x="{left}" y="{18 + pad}" font-size="12" font-weight="600" fill="{TITLE}">'
         f'출퇴근 CS 학습 · 최근 {WEEKS}주</text>',
     ]
     for i, lbl in [(1, "월"), (3, "수"), (5, "금")]:
@@ -191,7 +187,7 @@ def bar(done: int, total: int, width: int = 10) -> str:
     if total == 0:
         return "—"
     filled = round(width * done / total)
-    return f"{'🟥' * filled}{'⬛' * (width - filled)} {done}/{total}"
+    return f"`{'▰' * filled}{'▱' * (width - filled)}` {done}/{total}"
 
 
 def build_stats(days: dict, today: date) -> str:
@@ -199,7 +195,7 @@ def build_stats(days: dict, today: date) -> str:
     total_c = sum(v["correct"] for v in days.values())
     rate = f"{total_c / total_q * 100:.0f}%" if total_q else "—"
     return "\n".join([
-        "| 🔥 연속 학습 | 🏆 최장 연속 | 📅 총 학습일 | ❓ 푼 문제 | ✅ 정답률 |",
+        "| 연속 학습 | 최장 연속 | 총 학습일 | 푼 문제 | 정답률 |",
         "|:---:|:---:|:---:|:---:|:---:|",
         f"| **{streak(days, today)}일** | {longest_streak(days)}일 | {len(days)}일 | {total_q}개 | {rate} |",
     ])
@@ -235,7 +231,7 @@ def build_subjects(days: dict) -> str:
 
 def build_recent(days: dict) -> str:
     if not days:
-        return "_아직 기록이 없어요. 첫 출근길을 기다리는 중 🚇_"
+        return "_아직 기록이 없어요. 첫 출근길을 기다리는 중_"
     lines = []
     for d in sorted(days, reverse=True)[:7]:
         v = days[d]

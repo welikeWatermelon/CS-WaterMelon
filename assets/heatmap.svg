@@ -1,200 +1,198 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="450" height="189" viewBox="0 0 450 189" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
-<rect x="0" y="0" width="450" height="189" rx="18" fill="#1f6b3a"/>
-<rect x="5" y="5" width="440" height="179" rx="14" fill="#9ad79a"/>
-<rect x="8" y="8" width="434" height="173" rx="12" fill="#fff1f2"/>
-<text x="40" y="28" font-size="12" font-weight="700" fill="#1f6b3a">출퇴근 CS 학습 · 최근 26주</text>
-<text x="18" y="69" font-size="9" fill="#1f6b3a">월</text>
-<text x="18" y="99" font-size="9" fill="#1f6b3a">수</text>
-<text x="18" y="129" font-size="9" fill="#1f6b3a">금</text>
-<text x="40" y="38" font-size="9" fill="#1f6b3a">6월</text>
-<rect x="40" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-05-31 · 0문제</title></rect>
-<rect x="40" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-01 · 0문제</title></rect>
-<rect x="40" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-02 · 0문제</title></rect>
-<rect x="40" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-03 · 0문제</title></rect>
-<rect x="40" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-04 · 0문제</title></rect>
-<rect x="40" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-05 · 0문제</title></rect>
-<rect x="40" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-06 · 0문제</title></rect>
-<rect x="55" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-07 · 0문제</title></rect>
-<rect x="55" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-08 · 0문제</title></rect>
-<rect x="55" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-09 · 0문제</title></rect>
-<rect x="55" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-10 · 0문제</title></rect>
-<rect x="55" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-11 · 0문제</title></rect>
-<rect x="55" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-12 · 0문제</title></rect>
-<rect x="55" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-13 · 0문제</title></rect>
-<rect x="70" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-14 · 0문제</title></rect>
-<rect x="70" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-15 · 0문제</title></rect>
-<rect x="70" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-16 · 0문제</title></rect>
-<rect x="70" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-17 · 0문제</title></rect>
-<rect x="70" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-18 · 0문제</title></rect>
-<rect x="70" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-19 · 0문제</title></rect>
-<rect x="70" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-20 · 0문제</title></rect>
-<rect x="85" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-21 · 0문제</title></rect>
-<rect x="85" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-22 · 0문제</title></rect>
-<rect x="85" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-23 · 0문제</title></rect>
-<rect x="85" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-24 · 0문제</title></rect>
-<rect x="85" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-25 · 0문제</title></rect>
-<rect x="85" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-26 · 0문제</title></rect>
-<rect x="85" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-27 · 0문제</title></rect>
-<text x="100" y="38" font-size="9" fill="#1f6b3a">7월</text>
-<rect x="100" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-28 · 0문제</title></rect>
-<rect x="100" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-29 · 0문제</title></rect>
-<rect x="100" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-06-30 · 0문제</title></rect>
-<rect x="100" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-01 · 0문제</title></rect>
-<rect x="100" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-02 · 0문제</title></rect>
-<rect x="100" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-03 · 0문제</title></rect>
-<rect x="100" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-04 · 0문제</title></rect>
-<rect x="115" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-05 · 0문제</title></rect>
-<rect x="115" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-06 · 0문제</title></rect>
-<rect x="115" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-07 · 0문제</title></rect>
-<rect x="115" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-08 · 0문제</title></rect>
-<rect x="115" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-09 · 0문제</title></rect>
-<rect x="115" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-10 · 0문제</title></rect>
-<rect x="115" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-11 · 0문제</title></rect>
-<rect x="130" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-12 · 0문제</title></rect>
-<rect x="130" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-13 · 0문제</title></rect>
-<rect x="130" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-14 · 0문제</title></rect>
-<rect x="130" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-15 · 0문제</title></rect>
-<rect x="130" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-16 · 0문제</title></rect>
-<rect x="130" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-17 · 0문제</title></rect>
-<rect x="130" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-18 · 0문제</title></rect>
-<rect x="145" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-19 · 0문제</title></rect>
-<rect x="145" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-20 · 0문제</title></rect>
-<rect x="145" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-21 · 0문제</title></rect>
-<rect x="145" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-22 · 0문제</title></rect>
-<rect x="145" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-23 · 0문제</title></rect>
-<rect x="145" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-24 · 0문제</title></rect>
-<rect x="145" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-25 · 0문제</title></rect>
-<text x="160" y="38" font-size="9" fill="#1f6b3a">8월</text>
-<rect x="160" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-26 · 0문제</title></rect>
-<rect x="160" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-27 · 0문제</title></rect>
-<rect x="160" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-28 · 0문제</title></rect>
-<rect x="160" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-29 · 0문제</title></rect>
-<rect x="160" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-30 · 0문제</title></rect>
-<rect x="160" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-07-31 · 0문제</title></rect>
-<rect x="160" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-01 · 0문제</title></rect>
-<rect x="175" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-02 · 0문제</title></rect>
-<rect x="175" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-03 · 0문제</title></rect>
-<rect x="175" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-04 · 0문제</title></rect>
-<rect x="175" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-05 · 0문제</title></rect>
-<rect x="175" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-06 · 0문제</title></rect>
-<rect x="175" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-07 · 0문제</title></rect>
-<rect x="175" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-08 · 0문제</title></rect>
-<rect x="190" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-09 · 0문제</title></rect>
-<rect x="190" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-10 · 0문제</title></rect>
-<rect x="190" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-11 · 0문제</title></rect>
-<rect x="190" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-12 · 0문제</title></rect>
-<rect x="190" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-13 · 0문제</title></rect>
-<rect x="190" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-14 · 0문제</title></rect>
-<rect x="190" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-15 · 0문제</title></rect>
-<rect x="205" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-16 · 0문제</title></rect>
-<rect x="205" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-17 · 0문제</title></rect>
-<rect x="205" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-18 · 0문제</title></rect>
-<rect x="205" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-19 · 0문제</title></rect>
-<rect x="205" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-20 · 0문제</title></rect>
-<rect x="205" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-21 · 0문제</title></rect>
-<rect x="205" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-22 · 0문제</title></rect>
-<rect x="220" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-23 · 0문제</title></rect>
-<rect x="220" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-24 · 0문제</title></rect>
-<rect x="220" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-25 · 0문제</title></rect>
-<rect x="220" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-26 · 0문제</title></rect>
-<rect x="220" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-27 · 0문제</title></rect>
-<rect x="220" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-28 · 0문제</title></rect>
-<rect x="220" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-29 · 0문제</title></rect>
-<text x="235" y="38" font-size="9" fill="#1f6b3a">9월</text>
-<rect x="235" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-30 · 0문제</title></rect>
-<rect x="235" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-08-31 · 0문제</title></rect>
-<rect x="235" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-01 · 0문제</title></rect>
-<rect x="235" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-02 · 0문제</title></rect>
-<rect x="235" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-03 · 0문제</title></rect>
-<rect x="235" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-04 · 0문제</title></rect>
-<rect x="235" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-05 · 0문제</title></rect>
-<rect x="250" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-06 · 0문제</title></rect>
-<rect x="250" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-07 · 0문제</title></rect>
-<rect x="250" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-08 · 0문제</title></rect>
-<rect x="250" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-09 · 0문제</title></rect>
-<rect x="250" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-10 · 0문제</title></rect>
-<rect x="250" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-11 · 0문제</title></rect>
-<rect x="250" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-12 · 0문제</title></rect>
-<rect x="265" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-13 · 0문제</title></rect>
-<rect x="265" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-14 · 0문제</title></rect>
-<rect x="265" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-15 · 0문제</title></rect>
-<rect x="265" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-16 · 0문제</title></rect>
-<rect x="265" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-17 · 0문제</title></rect>
-<rect x="265" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-18 · 0문제</title></rect>
-<rect x="265" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-19 · 0문제</title></rect>
-<rect x="280" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-20 · 0문제</title></rect>
-<rect x="280" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-21 · 0문제</title></rect>
-<rect x="280" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-22 · 0문제</title></rect>
-<rect x="280" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-23 · 0문제</title></rect>
-<rect x="280" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-24 · 0문제</title></rect>
-<rect x="280" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-25 · 0문제</title></rect>
-<rect x="280" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-26 · 0문제</title></rect>
-<text x="295" y="38" font-size="9" fill="#1f6b3a">10월</text>
-<rect x="295" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-27 · 0문제</title></rect>
-<rect x="295" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-28 · 0문제</title></rect>
-<rect x="295" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-29 · 0문제</title></rect>
-<rect x="295" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-09-30 · 0문제</title></rect>
-<rect x="295" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-01 · 0문제</title></rect>
-<rect x="295" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-02 · 0문제</title></rect>
-<rect x="295" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-03 · 0문제</title></rect>
-<rect x="310" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-04 · 0문제</title></rect>
-<rect x="310" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-05 · 0문제</title></rect>
-<rect x="310" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-06 · 0문제</title></rect>
-<rect x="310" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-07 · 0문제</title></rect>
-<rect x="310" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-08 · 0문제</title></rect>
-<rect x="310" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-09 · 0문제</title></rect>
-<rect x="310" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-10 · 0문제</title></rect>
-<rect x="325" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-11 · 0문제</title></rect>
-<rect x="325" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-12 · 0문제</title></rect>
-<rect x="325" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-13 · 0문제</title></rect>
-<rect x="325" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-14 · 0문제</title></rect>
-<rect x="325" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-15 · 0문제</title></rect>
-<rect x="325" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-16 · 0문제</title></rect>
-<rect x="325" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-17 · 0문제</title></rect>
-<rect x="340" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-18 · 0문제</title></rect>
-<rect x="340" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-19 · 0문제</title></rect>
-<rect x="340" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-20 · 0문제</title></rect>
-<rect x="340" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-21 · 0문제</title></rect>
-<rect x="340" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-22 · 0문제</title></rect>
-<rect x="340" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-23 · 0문제</title></rect>
-<rect x="340" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-24 · 0문제</title></rect>
-<rect x="355" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-25 · 0문제</title></rect>
-<rect x="355" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-26 · 0문제</title></rect>
-<rect x="355" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-27 · 0문제</title></rect>
-<rect x="355" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-28 · 0문제</title></rect>
-<rect x="355" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-29 · 0문제</title></rect>
-<rect x="355" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-30 · 0문제</title></rect>
-<rect x="355" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-10-31 · 0문제</title></rect>
-<text x="370" y="38" font-size="9" fill="#1f6b3a">11월</text>
-<rect x="370" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-01 · 0문제</title></rect>
-<rect x="370" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-02 · 0문제</title></rect>
-<rect x="370" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-03 · 0문제</title></rect>
-<rect x="370" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-04 · 0문제</title></rect>
-<rect x="370" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-05 · 0문제</title></rect>
-<rect x="370" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-06 · 0문제</title></rect>
-<rect x="370" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-07 · 0문제</title></rect>
-<rect x="385" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-08 · 0문제</title></rect>
-<rect x="385" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-09 · 0문제</title></rect>
-<rect x="385" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-10 · 0문제</title></rect>
-<rect x="385" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-11 · 0문제</title></rect>
-<rect x="385" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-12 · 0문제</title></rect>
-<rect x="385" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-13 · 0문제</title></rect>
-<rect x="385" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-14 · 0문제</title></rect>
-<rect x="400" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-15 · 0문제</title></rect>
-<rect x="400" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-16 · 0문제</title></rect>
-<rect x="400" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-17 · 0문제</title></rect>
-<rect x="400" y="89" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-18 · 0문제</title></rect>
-<rect x="400" y="104" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-19 · 0문제</title></rect>
-<rect x="400" y="119" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-20 · 0문제</title></rect>
-<rect x="400" y="134" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-21 · 0문제</title></rect>
-<rect x="415" y="44" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-22 · 0문제</title></rect>
-<rect x="415" y="59" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-23 · 0문제</title></rect>
-<rect x="415" y="74" width="12" height="12" rx="2" fill="#ffd9dd"><title>2026-11-24 · 0문제</title></rect>
-<text x="321" y="175" font-size="9" fill="#1f6b3a" text-anchor="end">적음</text>
-<rect x="325" y="165" width="12" height="12" rx="2" fill="#ffd9dd"></rect>
-<rect x="340" y="165" width="12" height="12" rx="2" fill="#ff9aa8"></rect>
-<rect x="355" y="165" width="12" height="12" rx="2" fill="#f2546a"></rect>
-<rect x="370" y="165" width="12" height="12" rx="2" fill="#c9182f"></rect>
-<rect x="385" y="165" width="12" height="12" rx="2" fill="#1b1b1b"></rect>
-<text x="402" y="175" font-size="9" fill="#1f6b3a">많음</text>
+<rect x="0.5" y="0.5" width="449" height="188" rx="10" fill="#ffffff" stroke="#e4e7eb"/>
+<text x="40" y="28" font-size="12" font-weight="600" fill="#111827">출퇴근 CS 학습 · 최근 26주</text>
+<text x="18" y="69" font-size="9" fill="#6b7280">월</text>
+<text x="18" y="99" font-size="9" fill="#6b7280">수</text>
+<text x="18" y="129" font-size="9" fill="#6b7280">금</text>
+<text x="40" y="38" font-size="9" fill="#6b7280">6월</text>
+<rect x="40" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-05-31 · 0문제</title></rect>
+<rect x="40" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-01 · 0문제</title></rect>
+<rect x="40" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-02 · 0문제</title></rect>
+<rect x="40" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-03 · 0문제</title></rect>
+<rect x="40" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-04 · 0문제</title></rect>
+<rect x="40" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-05 · 0문제</title></rect>
+<rect x="40" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-06 · 0문제</title></rect>
+<rect x="55" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-07 · 0문제</title></rect>
+<rect x="55" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-08 · 0문제</title></rect>
+<rect x="55" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-09 · 0문제</title></rect>
+<rect x="55" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-10 · 0문제</title></rect>
+<rect x="55" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-11 · 0문제</title></rect>
+<rect x="55" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-12 · 0문제</title></rect>
+<rect x="55" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-13 · 0문제</title></rect>
+<rect x="70" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-14 · 0문제</title></rect>
+<rect x="70" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-15 · 0문제</title></rect>
+<rect x="70" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-16 · 0문제</title></rect>
+<rect x="70" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-17 · 0문제</title></rect>
+<rect x="70" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-18 · 0문제</title></rect>
+<rect x="70" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-19 · 0문제</title></rect>
+<rect x="70" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-20 · 0문제</title></rect>
+<rect x="85" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-21 · 0문제</title></rect>
+<rect x="85" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-22 · 0문제</title></rect>
+<rect x="85" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-23 · 0문제</title></rect>
+<rect x="85" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-24 · 0문제</title></rect>
+<rect x="85" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-25 · 0문제</title></rect>
+<rect x="85" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-26 · 0문제</title></rect>
+<rect x="85" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-27 · 0문제</title></rect>
+<text x="100" y="38" font-size="9" fill="#6b7280">7월</text>
+<rect x="100" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-28 · 0문제</title></rect>
+<rect x="100" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-29 · 0문제</title></rect>
+<rect x="100" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-06-30 · 0문제</title></rect>
+<rect x="100" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-01 · 0문제</title></rect>
+<rect x="100" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-02 · 0문제</title></rect>
+<rect x="100" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-03 · 0문제</title></rect>
+<rect x="100" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-04 · 0문제</title></rect>
+<rect x="115" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-05 · 0문제</title></rect>
+<rect x="115" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-06 · 0문제</title></rect>
+<rect x="115" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-07 · 0문제</title></rect>
+<rect x="115" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-08 · 0문제</title></rect>
+<rect x="115" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-09 · 0문제</title></rect>
+<rect x="115" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-10 · 0문제</title></rect>
+<rect x="115" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-11 · 0문제</title></rect>
+<rect x="130" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-12 · 0문제</title></rect>
+<rect x="130" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-13 · 0문제</title></rect>
+<rect x="130" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-14 · 0문제</title></rect>
+<rect x="130" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-15 · 0문제</title></rect>
+<rect x="130" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-16 · 0문제</title></rect>
+<rect x="130" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-17 · 0문제</title></rect>
+<rect x="130" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-18 · 0문제</title></rect>
+<rect x="145" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-19 · 0문제</title></rect>
+<rect x="145" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-20 · 0문제</title></rect>
+<rect x="145" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-21 · 0문제</title></rect>
+<rect x="145" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-22 · 0문제</title></rect>
+<rect x="145" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-23 · 0문제</title></rect>
+<rect x="145" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-24 · 0문제</title></rect>
+<rect x="145" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-25 · 0문제</title></rect>
+<text x="160" y="38" font-size="9" fill="#6b7280">8월</text>
+<rect x="160" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-26 · 0문제</title></rect>
+<rect x="160" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-27 · 0문제</title></rect>
+<rect x="160" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-28 · 0문제</title></rect>
+<rect x="160" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-29 · 0문제</title></rect>
+<rect x="160" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-30 · 0문제</title></rect>
+<rect x="160" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-07-31 · 0문제</title></rect>
+<rect x="160" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-01 · 0문제</title></rect>
+<rect x="175" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-02 · 0문제</title></rect>
+<rect x="175" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-03 · 0문제</title></rect>
+<rect x="175" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-04 · 0문제</title></rect>
+<rect x="175" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-05 · 0문제</title></rect>
+<rect x="175" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-06 · 0문제</title></rect>
+<rect x="175" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-07 · 0문제</title></rect>
+<rect x="175" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-08 · 0문제</title></rect>
+<rect x="190" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-09 · 0문제</title></rect>
+<rect x="190" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-10 · 0문제</title></rect>
+<rect x="190" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-11 · 0문제</title></rect>
+<rect x="190" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-12 · 0문제</title></rect>
+<rect x="190" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-13 · 0문제</title></rect>
+<rect x="190" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-14 · 0문제</title></rect>
+<rect x="190" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-15 · 0문제</title></rect>
+<rect x="205" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-16 · 0문제</title></rect>
+<rect x="205" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-17 · 0문제</title></rect>
+<rect x="205" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-18 · 0문제</title></rect>
+<rect x="205" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-19 · 0문제</title></rect>
+<rect x="205" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-20 · 0문제</title></rect>
+<rect x="205" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-21 · 0문제</title></rect>
+<rect x="205" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-22 · 0문제</title></rect>
+<rect x="220" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-23 · 0문제</title></rect>
+<rect x="220" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-24 · 0문제</title></rect>
+<rect x="220" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-25 · 0문제</title></rect>
+<rect x="220" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-26 · 0문제</title></rect>
+<rect x="220" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-27 · 0문제</title></rect>
+<rect x="220" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-28 · 0문제</title></rect>
+<rect x="220" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-29 · 0문제</title></rect>
+<text x="235" y="38" font-size="9" fill="#6b7280">9월</text>
+<rect x="235" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-30 · 0문제</title></rect>
+<rect x="235" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-08-31 · 0문제</title></rect>
+<rect x="235" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-01 · 0문제</title></rect>
+<rect x="235" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-02 · 0문제</title></rect>
+<rect x="235" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-03 · 0문제</title></rect>
+<rect x="235" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-04 · 0문제</title></rect>
+<rect x="235" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-05 · 0문제</title></rect>
+<rect x="250" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-06 · 0문제</title></rect>
+<rect x="250" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-07 · 0문제</title></rect>
+<rect x="250" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-08 · 0문제</title></rect>
+<rect x="250" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-09 · 0문제</title></rect>
+<rect x="250" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-10 · 0문제</title></rect>
+<rect x="250" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-11 · 0문제</title></rect>
+<rect x="250" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-12 · 0문제</title></rect>
+<rect x="265" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-13 · 0문제</title></rect>
+<rect x="265" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-14 · 0문제</title></rect>
+<rect x="265" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-15 · 0문제</title></rect>
+<rect x="265" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-16 · 0문제</title></rect>
+<rect x="265" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-17 · 0문제</title></rect>
+<rect x="265" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-18 · 0문제</title></rect>
+<rect x="265" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-19 · 0문제</title></rect>
+<rect x="280" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-20 · 0문제</title></rect>
+<rect x="280" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-21 · 0문제</title></rect>
+<rect x="280" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-22 · 0문제</title></rect>
+<rect x="280" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-23 · 0문제</title></rect>
+<rect x="280" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-24 · 0문제</title></rect>
+<rect x="280" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-25 · 0문제</title></rect>
+<rect x="280" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-26 · 0문제</title></rect>
+<text x="295" y="38" font-size="9" fill="#6b7280">10월</text>
+<rect x="295" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-27 · 0문제</title></rect>
+<rect x="295" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-28 · 0문제</title></rect>
+<rect x="295" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-29 · 0문제</title></rect>
+<rect x="295" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-09-30 · 0문제</title></rect>
+<rect x="295" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-01 · 0문제</title></rect>
+<rect x="295" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-02 · 0문제</title></rect>
+<rect x="295" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-03 · 0문제</title></rect>
+<rect x="310" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-04 · 0문제</title></rect>
+<rect x="310" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-05 · 0문제</title></rect>
+<rect x="310" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-06 · 0문제</title></rect>
+<rect x="310" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-07 · 0문제</title></rect>
+<rect x="310" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-08 · 0문제</title></rect>
+<rect x="310" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-09 · 0문제</title></rect>
+<rect x="310" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-10 · 0문제</title></rect>
+<rect x="325" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-11 · 0문제</title></rect>
+<rect x="325" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-12 · 0문제</title></rect>
+<rect x="325" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-13 · 0문제</title></rect>
+<rect x="325" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-14 · 0문제</title></rect>
+<rect x="325" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-15 · 0문제</title></rect>
+<rect x="325" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-16 · 0문제</title></rect>
+<rect x="325" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-17 · 0문제</title></rect>
+<rect x="340" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-18 · 0문제</title></rect>
+<rect x="340" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-19 · 0문제</title></rect>
+<rect x="340" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-20 · 0문제</title></rect>
+<rect x="340" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-21 · 0문제</title></rect>
+<rect x="340" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-22 · 0문제</title></rect>
+<rect x="340" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-23 · 0문제</title></rect>
+<rect x="340" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-24 · 0문제</title></rect>
+<rect x="355" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-25 · 0문제</title></rect>
+<rect x="355" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-26 · 0문제</title></rect>
+<rect x="355" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-27 · 0문제</title></rect>
+<rect x="355" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-28 · 0문제</title></rect>
+<rect x="355" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-29 · 0문제</title></rect>
+<rect x="355" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-30 · 0문제</title></rect>
+<rect x="355" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-10-31 · 0문제</title></rect>
+<text x="370" y="38" font-size="9" fill="#6b7280">11월</text>
+<rect x="370" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-01 · 0문제</title></rect>
+<rect x="370" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-02 · 0문제</title></rect>
+<rect x="370" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-03 · 0문제</title></rect>
+<rect x="370" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-04 · 0문제</title></rect>
+<rect x="370" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-05 · 0문제</title></rect>
+<rect x="370" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-06 · 0문제</title></rect>
+<rect x="370" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-07 · 0문제</title></rect>
+<rect x="385" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-08 · 0문제</title></rect>
+<rect x="385" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-09 · 0문제</title></rect>
+<rect x="385" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-10 · 0문제</title></rect>
+<rect x="385" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-11 · 0문제</title></rect>
+<rect x="385" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-12 · 0문제</title></rect>
+<rect x="385" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-13 · 0문제</title></rect>
+<rect x="385" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-14 · 0문제</title></rect>
+<rect x="400" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-15 · 0문제</title></rect>
+<rect x="400" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-16 · 0문제</title></rect>
+<rect x="400" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-17 · 0문제</title></rect>
+<rect x="400" y="89" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-18 · 0문제</title></rect>
+<rect x="400" y="104" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-19 · 0문제</title></rect>
+<rect x="400" y="119" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-20 · 0문제</title></rect>
+<rect x="400" y="134" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-21 · 0문제</title></rect>
+<rect x="415" y="44" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-22 · 0문제</title></rect>
+<rect x="415" y="59" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-23 · 0문제</title></rect>
+<rect x="415" y="74" width="12" height="12" rx="3" fill="#ebedf0"><title>2026-11-24 · 0문제</title></rect>
+<text x="321" y="175" font-size="9" fill="#6b7280" text-anchor="end">적음</text>
+<rect x="325" y="165" width="12" height="12" rx="3" fill="#ebedf0"></rect>
+<rect x="340" y="165" width="12" height="12" rx="3" fill="#bfe6c6"></rect>
+<rect x="355" y="165" width="12" height="12" rx="3" fill="#7cc68c"></rect>
+<rect x="370" y="165" width="12" height="12" rx="3" fill="#3a9a56"></rect>
+<rect x="385" y="165" width="12" height="12" rx="3" fill="#1d6b38"></rect>
+<text x="402" y="175" font-size="9" fill="#6b7280">많음</text>
 </svg>
