@@ -6,3 +6,4 @@
 |---|---|---|
 | 인덱스를 못 타는 경우 | [index-not-used.md](index-not-used.md) | 2026-11-24 |
 | B-Tree vs B+Tree | [b-plus-tree.md](b-plus-tree.md) | 2026-11-24 |
+| 클러스터드 vs 논클러스터드 인덱스 | [clustered-index.md](clustered-index.md) | 2026-11-24 |
