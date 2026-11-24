@@ -5,3 +5,4 @@
 | 주제 | 문서 | 처음 정리한 날 |
 |---|---|---|
 | 인덱스를 못 타는 경우 | [index-not-used.md](index-not-used.md) | 2026-11-24 |
+| B-Tree vs B+Tree | [b-plus-tree.md](b-plus-tree.md) | 2026-11-24 |
