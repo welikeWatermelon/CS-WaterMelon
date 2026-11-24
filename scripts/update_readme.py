@@ -40,7 +40,7 @@ ROADMAP_KEYS = {
 }
 
 # 수박 테마: 겉은 초록 껍질, 안은 빨간 속살 + 검은 씨
-# 공부 안 한 날(연한 속살) → 빨강이 점점 진해짐 → 가장 많이 푼 날은 검은 씨
+# 공부 안 한 날(연한 속살) → 빨강이 점점 진해짐 → 가장 많이 푼 날은 검정
 COLORS = ["#ffd9dd", "#ff9aa8", "#f2546a", "#c9182f", "#1b1b1b"]
 RIND_DARK = "#1f6b3a"   # 껍질 바깥 진한 초록
 RIND_LIGHT = "#9ad79a"  # 껍질 안쪽 연한 초록
@@ -114,16 +114,9 @@ def longest_streak(days: dict) -> int:
 
 
 def cell_svg(x: int, y: int, size: int, lv: int, tip: str = "") -> str:
-    """한 칸을 그려요. 최고 단계(lv 4)는 진한 빨강 칸 위에 검은 수박씨를 얹어요."""
+    """한 칸을 그려요. 최고 단계(lv 4)는 검정 칸이에요."""
     title = f"<title>{tip}</title>" if tip else ""
-    if lv < 4:
-        return f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="2" fill="{COLORS[lv]}">{title}</rect>'
-    cx, cy = x + size / 2, y + size / 2
-    return (
-        f'<g>{title}<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="2" fill="{COLORS[3]}"/>'
-        f'<ellipse cx="{cx}" cy="{cy + 0.5}" rx="{size * 0.22:.1f}" ry="{size * 0.33:.1f}" fill="{COLORS[4]}"/>'
-        f'<ellipse cx="{cx - 1}" cy="{cy - 1.5}" rx="0.9" ry="1.4" fill="#ffffff" opacity="0.5"/></g>'
-    )
+    return f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="2" fill="{COLORS[lv]}">{title}</rect>'
 
 
 def build_svg(days: dict, today: date) -> str:

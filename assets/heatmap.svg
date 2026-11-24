@@ -195,6 +195,6 @@
 <rect x="340" y="165" width="12" height="12" rx="2" fill="#ff9aa8"></rect>
 <rect x="355" y="165" width="12" height="12" rx="2" fill="#f2546a"></rect>
 <rect x="370" y="165" width="12" height="12" rx="2" fill="#c9182f"></rect>
-<g><rect x="385" y="165" width="12" height="12" rx="2" fill="#c9182f"/><ellipse cx="391.0" cy="171.5" rx="2.6" ry="4.0" fill="#1b1b1b"/><ellipse cx="390.0" cy="169.5" rx="0.9" ry="1.4" fill="#ffffff" opacity="0.5"/></g>
+<rect x="385" y="165" width="12" height="12" rx="2" fill="#1b1b1b"></rect>
 <text x="402" y="175" font-size="9" fill="#1f6b3a">많음</text>
 </svg>
