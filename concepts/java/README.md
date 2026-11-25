@@ -4,3 +4,5 @@
 
 | 주제 | 문서 | 처음 정리한 날 |
 |---|---|---|
+| JVM 구조와 GC (Stack/Heap, GC Root, Young/Old, STW) | [jvm-gc.md](jvm-gc.md) | 2026-11-26 |
+| equals / hashCode, String Pool·불변성 | [equals-hashcode-string.md](equals-hashcode-string.md) | 2026-11-26 |

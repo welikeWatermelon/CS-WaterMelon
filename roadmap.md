@@ -117,8 +117,8 @@
 - [ ] JIT 컴파일러
 
 ### 언어 기본
-- [ ] equals / hashCode 계약
-- [ ] String 불변성, String Pool
+- [x] equals / hashCode 계약
+- [x] String 불변성, String Pool
 - [ ] 오버로딩 vs 오버라이딩, 추상클래스 vs 인터페이스
 - [ ] Checked vs Unchecked 예외
 - [ ] 제네릭과 타입 소거

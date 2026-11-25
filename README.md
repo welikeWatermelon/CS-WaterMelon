@@ -8,7 +8,7 @@
 <!-- STATS:START -->
 | 연속 학습 | 최장 연속 | 총 학습일 | 푼 문제 | 정답률 |
 |:---:|:---:|:---:|:---:|:---:|
-| **2일** | 2일 | 2일 | 14개 | 14% |
+| **3일** | 3일 | 3일 | 22개 | 14% |
 <!-- STATS:END -->
 
 ## 과목별 진도
@@ -19,7 +19,7 @@
 | [OS](concepts/os/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/21 | 0 | 0 | — | — |
 | [Network](concepts/network/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/18 | 0 | 0 | — | — |
 | [DB](concepts/db/README.md) | `▰▱▱▱▱▱▱▱▱▱` 3/22 | 2 | 8 | 18% | 2026-11-25 |
-| [Java](concepts/java/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/22 | 0 | 0 | — | — |
+| [Java](concepts/java/README.md) | `▰▱▱▱▱▱▱▱▱▱` 2/22 | 1 | 8 | 12% | 2026-11-26 |
 | [Spring](concepts/spring/README.md) | `▰▰▱▱▱▱▱▱▱▱` 4/21 | 1 | 6 | 9% | 2026-11-25 |
 | [Infra / Cloud](concepts/infra/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/13 | 0 | 0 | — | — |
 | [시스템 설계](concepts/system-design/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/20 | 0 | 0 | — | — |
@@ -28,6 +28,7 @@
 ## 최근 기록
 
 <!-- RECENT:START -->
+- [2026-11-26](logs/2026/11/2026-11-26.md) · java · 1/8
 - [2026-11-25](logs/2026/11/2026-11-25.md) · spring, db · 1/11
 - [2026-11-24](logs/2026/11/2026-11-24.md) · db · 1/3
 <!-- RECENT:END -->
@@ -51,5 +52,5 @@ CS-WaterMelon/
 - **퇴근**: 오답노트와 며칠 전 주제 복습
 
 <!-- UPDATED:START -->
-<sub>마지막 업데이트: 2026-11-25</sub>
+<sub>마지막 업데이트: 2026-11-26</sub>
 <!-- UPDATED:END -->

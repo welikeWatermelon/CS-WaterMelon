@@ -14,6 +14,14 @@
 | 2026-11-25 | spring | REQUIRED vs REQUIRES_NEW | REQUIRED=있으면 참여/없으면 생성, REQUIRES_NEW=보류+새 커넥션. 커넥션 풀 데드락 주의 | 11-25 🔺 |
 | 2026-11-25 | spring | REQUIRED 내부 예외를 바깥에서 catch하면 커밋? | rollback-only 표시 → 전체 롤백 + UnexpectedRollbackException | 11-25 🔺 |
 | 2026-11-25 | spring | readOnly = true의 효과 | JPA flush·변경 감지 생략, DB 읽기 전용 최적화, 레플리카 라우팅 | |
+| 2026-11-26 | java | `.java`가 실행되기까지 JVM 구조는? | 머신=가상 컴퓨터, javac→클래스 로더→Runtime Data Area(Heap/Stack/Method Area)→실행 엔진(인터프리터+JIT, GC) | |
+| 2026-11-26 | java | `Person p = new Person()`에서 p와 객체의 위치는? | 참조 변수 p는 Stack, 객체는 Heap | |
+| 2026-11-26 | java | GC는 안 쓰는 객체를 어떻게 판단? Young/Old 이유는? | 시간이 아니라 GC Root 도달 가능성, static도 Root, 약한 세대 가설, age 임계값 후 Old 승격 | |
+| 2026-11-26 | java | Stop-The-World란? | GC 중 앱 스레드 전체 정지 → 응답 지연, G1/ZGC는 STW를 줄이는 방향 | |
+| 2026-11-26 | java | 서버가 가끔 멈출 때 GC 원인이면 뭘 확인? | GC 로그의 pause·Full GC 빈도·청소 후 Old 사용량, jstat, 힙 덤프(MAT) | |
+| 2026-11-26 | java | equals가 true면 hashCode도 같아야 하는 이유는? | HashMap이 hashCode로 버킷 → equals로 확인. 다르면 다른 버킷이라 조회 실패·중복 | |
+| 2026-11-26 | java | String은 왜 불변인가? | Pool 공유는 불변이라서 가능 + HashMap 키 안전, 스레드 안전, 보안 | |
+
 
 ## 🎓 졸업
 
