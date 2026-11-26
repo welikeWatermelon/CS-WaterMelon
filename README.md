@@ -8,7 +8,7 @@
 <!-- STATS:START -->
 | 연속 학습 | 최장 연속 | 총 학습일 | 푼 문제 | 정답률 |
 |:---:|:---:|:---:|:---:|:---:|
-| **3일** | 3일 | 3일 | 22개 | 14% |
+| **3일** | 3일 | 3일 | 27개 | 22% |
 <!-- STATS:END -->
 
 ## 과목별 진도
@@ -19,8 +19,8 @@
 | [OS](concepts/os/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/21 | 0 | 0 | — | — |
 | [Network](concepts/network/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/18 | 0 | 0 | — | — |
 | [DB](concepts/db/README.md) | `▰▱▱▱▱▱▱▱▱▱` 3/22 | 2 | 8 | 18% | 2026-11-25 |
-| [Java](concepts/java/README.md) | `▰▱▱▱▱▱▱▱▱▱` 2/22 | 1 | 8 | 12% | 2026-11-26 |
-| [Spring](concepts/spring/README.md) | `▰▰▱▱▱▱▱▱▱▱` 4/21 | 1 | 6 | 9% | 2026-11-25 |
+| [Java](concepts/java/README.md) | `▰▱▱▱▱▱▱▱▱▱` 2/22 | 1 | 6 | 31% | 2026-11-26 |
+| [Spring](concepts/spring/README.md) | `▰▰▱▱▱▱▱▱▱▱` 4/21 | 2 | 12 | 21% | 2026-11-26 |
 | [Infra / Cloud](concepts/infra/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/13 | 0 | 0 | — | — |
 | [시스템 설계](concepts/system-design/README.md) | `▱▱▱▱▱▱▱▱▱▱` 0/20 | 0 | 0 | — | — |
 <!-- SUBJECTS:END -->
@@ -28,7 +28,7 @@
 ## 최근 기록
 
 <!-- RECENT:START -->
-- [2026-11-26](logs/2026/11/2026-11-26.md) · java · 1/8
+- [2026-11-26](logs/2026/11/2026-11-26.md) · java, spring · 4/13
 - [2026-11-25](logs/2026/11/2026-11-25.md) · spring, db · 1/11
 - [2026-11-24](logs/2026/11/2026-11-24.md) · db · 1/3
 <!-- RECENT:END -->
